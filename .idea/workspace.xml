@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84a13961-6416-4be2-85e1-891023ff38d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V7dlZvAeg8nsfWZEMxWylDvgwD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="check" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ROSimulation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\abkha\Anaconda3\envs\untitled\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.check" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84a13961-6416-4be2-85e1-891023ff38d6" name="Default Changelist" comment="" />
+      <created>1576608221471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576608221471</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="519" y="56" key="#check" timestamp="1576666024406">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="519" y="56" key="#check/0.0.1600.860@0.0.1600.860" timestamp="1576666024406" />
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576662911293">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1576662911293" />
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1576667840353">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="145" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1576667840353" />
+    <state width="1579" height="206" key="GridCell.Tab.0.bottom" timestamp="1576959393420">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="206" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1576959393420" />
+    <state width="1579" height="206" key="GridCell.Tab.0.center" timestamp="1576959393420">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="206" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1576959393420" />
+    <state width="1579" height="206" key="GridCell.Tab.0.left" timestamp="1576959393420">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="206" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1576959393420" />
+    <state width="1579" height="206" key="GridCell.Tab.0.right" timestamp="1576959393420">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="206" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1576959393420" />
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom" timestamp="1576694747769">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1576694747769" />
+    <state width="1579" height="276" key="GridCell.Tab.1.center" timestamp="1576694747769">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1576694747769" />
+    <state width="1579" height="276" key="GridCell.Tab.1.left" timestamp="1576694747769">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1576694747769" />
+    <state width="1579" height="276" key="GridCell.Tab.1.right" timestamp="1576694747769">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="276" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1576694747769" />
+    <state x="301" y="72" key="SettingsEditor" timestamp="1576663107532">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1576663107532" />
+    <state x="501" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1577182040439">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="501" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1577182040439" />
+    <state x="611" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1576610543160">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="611" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1576610543160" />
+  </component>
+</project>
